@@ -27,7 +27,7 @@ export default function About() {
                 I&apos;ve built full-stack applications, developed RESTful APIs, worked with databases, and applied AI/ML techniques through academic projects, hackathons, and college-based industry collaborations.
               </p>
               <p className="text-slate-400 leading-relaxed">
-                I learn quickly, solve problems independently, and thrive in team environments. Currently completing my Advanced Diploma in AI Software Engineering at Centennial College with a GPA of 3.69/4.5.
+                I learn quickly, solve problems independently, and thrive in team environments. I hold an Advanced Diploma in AI Software Engineering from Centennial College with a GPA of 3.69/4.5.
               </p>
 
               <div className="flex gap-4 pt-2">

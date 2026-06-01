@@ -4,7 +4,7 @@ const education = [
   {
     degree: "Advanced Diploma in AI Software Engineering",
     institution: "Centennial College",
-    period: "Sept 2023 – Apr 2026",
+    period: "Sept 2023 – Apr 2026 · Completed",
     detail: "Machine Learning · Full Stack Development · Testing & QA · Data Structures · Data Analysis",
     gpa: "GPA: 3.69 / 4.5",
   },
